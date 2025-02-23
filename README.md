@@ -20,3 +20,6 @@ If you want your actor to replicate with this mod, jsut enable `Replicates` in U
 ## Credits
 
 @yangff - For figuring out a lot of stuff regarding replication
+@localcc - For the original repo
+
+I take no credit for this, I just updated it to be compatible with new UE4SS.
